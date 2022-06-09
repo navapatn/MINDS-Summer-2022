@@ -76,7 +76,7 @@ There are two python file to be run.
 1. Scraper.py: This file will perform data collection and data preprocessing. The output will be a JSON file which will be an input for the second python file.
 2. sentiment.py: This file will perform the sentimental analysis and visualization. The file will take JSON as an input and create dataframe and graph as an output.
 
-Run time: 
+**Run time:** 
 
 Total: 2.39 seconds
 
