@@ -67,12 +67,21 @@ Out of 10 most recent articles, 8 of them have negative sentiment and 2 of them 
 One of the article that got positive sentiment is an article titled "Analysis: Can African gas replace Russian supplies to Europe?" (https://www.aljazeera.com/economy/2022/3/1/analysis-can-african-gas-replace-russian-supplies-to-europe).
 This article presents both side of the story and contain both positive and negative words. However, most of the recent articles reported, mostly, disasters, deaths, attacks which contain so many negative words in the article. That is why 8 out of 10 articles got negative sentiment overall.
 
+Note: As a next step, I would like to try other algorithms and alterations of the input to find more accurate results.
+
 ## How to run the code
 
 There are two python file to be run.
 
 1. Scraper.py: This file will perform data collection and data preprocessing. The output will be a JSON file which will be an input for the second python file.
 2. sentiment.py: This file will perform the sentimental analysis and visualization. The file will take JSON as an input and create dataframe and graph as an output.
+
+Run time: Total: 2.39 seconds
+
+Scraper.py: 1.85 second
+
+sentiment.py: 0.34 second
+
 
 
 
