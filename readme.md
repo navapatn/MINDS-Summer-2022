@@ -62,7 +62,7 @@ df['sentiment'] = sentiment
 I used plotly library to visualize the result I got from Vader algorithm.
 Out of 10 most recent articles, 8 of them have negative sentiment and 2 of them have positive sentiment according to Vader.
 
-image
+![sentiment](./image/result.png)
 
 ## How to run the code
 
