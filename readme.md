@@ -64,6 +64,9 @@ Out of 10 most recent articles, 8 of them have negative sentiment and 2 of them 
 
 ![sentiment](./image/result.png)
 
+One of the article that got positive sentiment is an article titled "Analysis: Can African gas replace Russian supplies to Europe?" (https://www.aljazeera.com/economy/2022/3/1/analysis-can-african-gas-replace-russian-supplies-to-europe).
+This article presents both side of the story and contain both positive and negative words. However, most of the recent articles reported, mostly, disasters, deaths, attacks which contain so many negative words in the article. That is why 8 out of 10 articles got negative sentiment overall.
+
 ## How to run the code
 
 There are two python file to be run.
